@@ -1,0 +1,24 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon May 16 13:53:08 2022 
+Best design point: 1
+Design specs: 
+	Boma:mux_8x1_tb:1	corner	Nominal - 
+Design parameters: 
+	Vin0		0
+	Vin1		0
+	Vin2		0
+	Vin3		0
+	Vin4		0
+	Vin5		0
+	Vin6		0
+	Vin7		0
+	Vs0		0
+	Vs1		0
+	Vs2		0
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Mon May 16 13:53:14 2022 
