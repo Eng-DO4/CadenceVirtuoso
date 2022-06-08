@@ -4,7 +4,7 @@ I have worked with a team to design 4-bit ALU using (project for 6th semester co
 I have paticipated in :
 <ol>
   <li>
-    Designing from scratch
+    Designing from scratch (schematic)
     <ul>
       <li>Inverter</li>
       <li>2 input XOR Gate</li>
