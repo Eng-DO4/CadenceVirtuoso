@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon May 16 09:02:14 2022 
+Best design point: 1
+Design specs: 
+	Boma:xor_tb:1	corner	Nominal - 
+Design parameters: 
+	Vin1		0
+	Vin2		0
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Mon May 16 09:02:20 2022 
